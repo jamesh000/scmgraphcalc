@@ -1,0 +1,3 @@
+optimize draw-function
+rewrite the plot interface to use hash tables
+write the function adding interface
